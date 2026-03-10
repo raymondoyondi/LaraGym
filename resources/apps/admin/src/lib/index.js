@@ -1,11 +1,1 @@
-// @ts-nocheck
-export class GenericException extends Error {}
-
-
-export class ApiException extends GenericException {
-    constructor(message, status = 500) {
-        super()
-        this.status = status
-        this.message = message
-    }
-}
+// place files you want to import through the `$lib` alias in this folder.
