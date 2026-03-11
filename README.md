@@ -2,6 +2,11 @@
 
 LaraGym is a robust, full-stack web application designed to streamline gym operations. Built with **PHP** and **MySQL**, it provides a centralized platform for administrators and staff to manage memberships, schedules, and financial transactions efficiently.
 
+---
+# Screenshots
+
+<img width="1037" height="700" alt="Screenshot 2026-03-11 1 56 30 PM" src="https://github.com/user-attachments/assets/83a5dbb1-cec9-450e-997c-51cde129cb1e" />
+<img width="1037" height="692" alt="Screenshot 2026-03-11 1 56 39 PM" src="https://github.com/user-attachments/assets/7c1f5f8e-466e-453d-9805-1b605d405e02" />
 
 
 ---
